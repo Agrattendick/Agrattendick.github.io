@@ -1,4 +1,13 @@
-.visualNavbar {
-    padding-right: 10px;
-    background-color: red;
+.pad {
+    padding-right: 15px;
+}
+
+.par {
+    padding: 20px;
+}
+
+.vis {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
